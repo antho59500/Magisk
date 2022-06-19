@@ -718,7 +718,10 @@
 - Update root disable method, using more aggressive approach
 - Use lazy unmount to unmount root from system, should fix some issues with custom roms
 - Use the highest possible compression rate for ramdisk, hope to fix some devices with no boot partition space
-- Detect boot partition space insufficient, will abort installer instead of breaking your device
+- Detect boot partition space insufficient, will ab
+
+
+ort installer instead of breaking your device
 
 ### v2
 
